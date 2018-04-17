@@ -1,0 +1,5 @@
+<aplicacao>
+     <arquivoDaArena nome="arena" tipo="svg" caminho="/home/poney/Downloads/TiagoSardi4/mapa"></arquivoDaArena>
+    <carro velTiro="5.2"></carro>
+    <inimigo freqTiro="4.0001" velInimigo="2.1" velTiro="4.3"></inimigo>
+</aplicacao>
