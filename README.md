@@ -15,14 +15,19 @@ PARSE com: tinyxml.h
 
 ###Compilando e Executando
 >> make
-#
+
 >> ./arenagame mapa/
+
 
 ORIENTAÇÕES para correta execução:
 O atributo "caminho" no arquivo mapa/config.xml deve conter o endereço local que consta o arquivo config.xml
 
+
 ### INSTRUÇÕES DO JOGO
 
+
  Setas WASD
+
  Mouse aponta o canhão
+
  Botão esquerdo do mouse atira
