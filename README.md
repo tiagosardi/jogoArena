@@ -8,12 +8,12 @@ O objetivo da implementação está atrelada ao meu treinamento para uso
 da biblioteca openGL juntamente com funções matemáticas, especialmente 
 as trigonométricas.
 
-###PRE REQUISITOS:
+### PRE REQUISITOS:
 OpenGL
 Math.h
 PARSE com: tinyxml.h
 
-###Compilando e Executando
+### Compilando e Executando
 >> make
 
 >> ./arenagame mapa/
